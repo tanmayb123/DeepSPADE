@@ -1,0 +1,6 @@
+2017-08-07 19:17:27,364: INFO: MainThread: Logging in.
+2017-08-07 19:17:29,016: INFO: MainThread: Logged in.
+2017-08-07 19:17:29,016: INFO: message_sender: Worker thread reporting for duty.
+2017-08-07 19:17:45,903: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39286697 &lt;p&gt;Hello we give out loans to any country all over the word Are you looking for financial assistance,we offer a loan at a maximum low rate of 2%, both secure and unsecured, every interested applicant should contact us using our online applicati\nSpam\nWith confidence of: 1.15079050884%\n')
+2017-08-07 19:21:35,746: INFO: message_sender: Now serving customer 2, ('send', 11540, ':39286743 I have Keras installed with the Tensorflow backend and CUDA. I&#39;d like to sometimes on demand force Keras to use CPU. Can this be done without say installing a separate CPU-only Tensorflow in a virtual environment? If so how? If the backend were T\nSpam\nWith confidence of: 1.14717213437%\n')
+2017-08-07 19:22:29,911: INFO: message_sender: Now serving customer 3, ('send', 11540, ':39286764 Will learning Cocoa before Cocoa touch be a major help? Or would it be MORE beneficial to rather just focus on my main goal and learn Cocoa touch.\nSpam\nWith confidence of: 0.0838140724227%\n')

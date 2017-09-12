@@ -1,0 +1,77 @@
+2017-08-07 21:54:03,598: INFO: MainThread: Logging in.
+2017-08-07 21:54:05,396: INFO: MainThread: Logged in.
+2017-08-07 21:54:05,397: INFO: message_sender: Worker thread reporting for duty.
+2017-08-07 21:55:10,520: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39288744 &lt;p&gt;Currently Weak Step 33 As a beginner, you should lift weights 2 to 3 times a week, and you should never lift weights for  Beast Mode Boost consecutive days, you need to give your body time to recover. Imagen titulada Get Stronger Muscles whe\nSpam\nWith confidence of: 0.413161097094%\n')
+2017-08-07 21:57:21,018: INFO: MainThread: Logging in.
+2017-08-07 21:57:22,451: INFO: MainThread: Logged in.
+2017-08-07 21:57:22,451: INFO: message_sender: Worker thread reporting for duty.
+2017-08-07 21:58:27,073: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39288780 I was trying to migrate some legacy c code from Centos to Cygwin, I met this code:\nNot Spam\nWith confidence of: 95.9873080254%\n')
+2017-08-07 21:59:43,779: INFO: message_sender: Now serving customer 2, ('send', 11540, ':39288795 &lt;p&gt;YOU FUCKING SUCK DICK YOU DIDNT HELP AT ME ALL. YOU ARE THE WORST INTERNET PERSON IVE EVER COME ACROSS. AND I SIR, HAVE BEEN ON THE INTERNET ALL OF MY LIFE. &lt;strong&gt;NEVER&lt;/strong&gt; HAVE I COME ACROSS A GOLB GOBLIN ON THE FUCKING I\nSpam\nWith confidence of: 0.1027137856%\n')
+2017-08-07 22:07:14,409: INFO: message_sender: Now serving customer 3, ('send', 11540, ':39288876 This line of code is not working (I suppose something went wrong well before here because apparently the user&#39;s email didn&#39;t make it through the confirmation process)\nSpam\nWith confidence of: 0.0304826535285%\n')
+2017-08-07 22:08:24,626: INFO: message_sender: Now serving customer 4, ('send', 11540, ':39288890 This line of code is not working (I suppose something went wrong well before here because apparently the user&#39;s email didn&#39;t make it through the confirmation process) email = ts.loads(token, salt=&#39;email-confirm-key&#39;, max_age=86400) He\nSpam\nWith confidence of: 0.0308933900669%\n')
+2017-08-07 22:14:01,278: INFO: message_sender: Now serving customer 5, ('send', 11540, ':39288937 This line of code is not working (I suppose something went wrong well before here because apparently the user&#39;s email didn&#39;t make it through the confirmation process) email = ts.loads(token, salt=&#39;email-confirm-key&#39;, max_age=86400) He\nSpam\nWith confidence of: 0.0190916543943%\n')
+2017-08-08 00:28:26,451: INFO: message_sender: Now serving customer 6, ('send', 11540, ':39289915 ')
+2017-08-08 00:28:55,775: INFO: MainThread: Logging in.
+2017-08-08 00:28:57,139: INFO: MainThread: Logged in.
+2017-08-08 00:28:57,139: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 00:29:11,085: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39289922 ')
+2017-08-08 00:29:11,337: INFO: message_sender: Now serving customer 7, ('send', 11540, ':39289922 ')
+2017-08-08 00:30:32,099: INFO: MainThread: Logging in.
+2017-08-08 00:30:33,433: INFO: MainThread: Logged in.
+2017-08-08 00:30:33,433: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 00:30:50,660: INFO: message_sender: Now serving customer 8, ('send', 11540, ':39289940 spammy spam\nSpam\nWith confidence of: 2.79595572501%\n')
+2017-08-08 00:30:50,721: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39289940 spammy spam\nSpam\nWith confidence of: 2.79595572501%\n')
+2017-08-08 00:34:09,025: INFO: MainThread: Logging in.
+2017-08-08 00:34:10,616: INFO: MainThread: Logged in.
+2017-08-08 00:34:10,616: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 01:14:30,936: INFO: MainThread: Logging in.
+2017-08-08 01:14:32,651: INFO: MainThread: Logged in.
+2017-08-08 01:14:32,651: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 01:14:33,462: INFO: message_sender: Now serving customer 1, ('send', '11540', 'TESTING message')
+2017-08-08 01:17:31,418: INFO: MainThread: Logging in.
+2017-08-08 01:17:32,915: INFO: MainThread: Logged in.
+2017-08-08 01:17:32,916: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 01:17:51,781: INFO: MainThread: Logging in.
+2017-08-08 01:17:53,275: INFO: MainThread: Logged in.
+2017-08-08 01:17:53,275: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 01:17:54,018: INFO: message_sender: Now serving customer 1, ('send', '11540', '<p><a href=http://nitroshredadvice.com/herbal-virility-max/ rel=nofollow\nNot Spam\nWith confidence of: 68.4378087521%\n')
+2017-08-08 01:24:22,153: INFO: MainThread: Logging in.
+2017-08-08 01:24:24,093: INFO: MainThread: Logged in.
+2017-08-08 01:24:24,093: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 01:25:05,485: INFO: message_sender: Now serving customer 9, ('send', 11540, ':39290464 I was trying to migrate some legacy c code from Centos to Cygwin, I met this code:\nNot Spam\nWith confidence of: 93.2223975658%\n')
+2017-08-08 01:25:07,197: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39290464 I was trying to migrate some legacy c code from Centos to Cygwin, I met this code:\nNot Spam\nWith confidence of: 93.2223975658%\n')
+2017-08-08 01:27:34,857: INFO: message_sender: Now serving customer 2, ('send', 11540, ':39290496 I was trying to migrate some legacy c code from Centos to Cygwin, I met this code:\nNot Spam\nWith confidence of: 93.2223975658%\n')
+2017-08-08 01:27:35,847: INFO: message_sender: Now serving customer 10, ('send', 11540, ':39290496 I was trying to migrate some legacy c code from Centos to Cygwin, I met this code:\nNot Spam\nWith confidence of: 93.2223975658%\n')
+2017-08-08 01:28:39,845: INFO: message_sender: Now serving customer 11, ('send', 11540, ':39290505 v\nSpam\nWith confidence of: 2.79814600945%\n')
+2017-08-08 01:28:41,553: INFO: message_sender: Now serving customer 3, ('send', 11540, ':39290505 v\nSpam\nWith confidence of: 2.79814600945%\n')
+2017-08-08 01:28:51,857: INFO: message_sender: Now serving customer 4, ('send', 11540, ':39290509 &lt;p&gt;Hello we give out loans to any country all over the word Are you looking for financial assistance,we offer a loan at a maximum low rate of 2%, both secure and unsecured, every interested applicant should contact us using our online applicati\nSpam\nWith confidence of: 31.8232893944%\n')
+2017-08-08 01:28:53,017: INFO: message_sender: Now serving customer 12, ('send', 11540, ':39290509 &lt;p&gt;Hello we give out loans to any country all over the word Are you looking for financial assistance,we offer a loan at a maximum low rate of 2%, both secure and unsecured, every interested applicant should contact us using our online applicati\nSpam\nWith confidence of: 31.8232893944%\n')
+2017-08-08 01:30:29,006: INFO: message_sender: Now serving customer 13, ('send', 11540, ':39290522 facial beauty cream\nNot Spam\nWith confidence of: 71.6341555119%\n')
+2017-08-08 01:30:29,628: INFO: message_sender: Now serving customer 5, ('send', 11540, ':39290522 facial beauty cream\nNot Spam\nWith confidence of: 71.6341555119%\n')
+2017-08-08 01:38:06,945: INFO: message_sender: Now serving customer 6, ('send', 11540, ':39290614 &lt;p&gt;good ! &lt;a href=&quot;http://www.bagishared.bz&quot; rel=&quot;nofollow noreferrer&quot;&gt;download video lagu gratis&lt;/a&gt;&lt;/p&gt;\nNot Spam\nWith confidence of: 93.0747210979%\n')
+2017-08-08 01:38:08,465: INFO: message_sender: Now serving customer 14, ('send', 11540, ':39290614 &lt;p&gt;good ! &lt;a href=&quot;http://www.bagishared.bz&quot; rel=&quot;nofollow noreferrer&quot;&gt;download video lagu gratis&lt;/a&gt;&lt;/p&gt;\nNot Spam\nWith confidence of: 93.0747210979%\n')
+2017-08-08 01:40:45,329: INFO: message_sender: Now serving customer 7, ('send', 11540, ':39290645 test\nSpam\nWith confidence of: 2.79814600945%\n')
+2017-08-08 01:40:45,351: INFO: message_sender: Now serving customer 15, ('send', 11540, ':39290645 test\nSpam\nWith confidence of: 2.79814600945%\n')
+2017-08-08 01:42:13,671: INFO: MainThread: Logging in.
+2017-08-08 01:42:15,185: INFO: MainThread: Logged in.
+2017-08-08 01:42:15,185: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 01:43:21,791: INFO: message_sender: Now serving customer 16, ('send', 11540, ':39290670 &lt;p&gt;Try jaopoker.com code bebo86 I&#39;ve literally cashed out multiple times also Have PROOF. Multiple FREEROLLS WEEKLY. Cash out and withdraw in minutes.  Bitcoin PayPal Venmo Debit/credit No fees at all. No waiting USE CASHIER LIVE CHAT**&lt;\nSpam\nWith confidence of: 0.0197091416339%\n')
+2017-08-08 01:43:21,862: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39290670 &lt;p&gt;Try jaopoker.com code bebo86 I&#39;ve literally cashed out multiple times also Have PROOF. Multiple FREEROLLS WEEKLY. Cash out and withdraw in minutes.  Bitcoin PayPal Venmo Debit/credit No fees at all. No waiting USE CASHIER LIVE CHAT**&lt;\nSpam\nWith confidence of: 0.0197091416339%\n')
+2017-08-08 01:44:19,849: INFO: message_sender: Now serving customer 17, ('send', 11540, ':39290678 &lt;p&gt;I&#39;m very new to regex, reading and learning but need some direction&lt;/p&gt; &lt;p&gt;I need to parse email addresses for quality&lt;/p&gt; &lt;p&gt;fax=1AreaCodeNumber@domain.com or 1AreaCodeNumber@doamin.com&lt;/p&gt;&lt;p&gt;need to \nSpam\nWith confidence of: 0.0192004765267%\n')
+2017-08-08 01:44:20,224: INFO: message_sender: Now serving customer 2, ('send', 11540, ':39290678 &lt;p&gt;I&#39;m very new to regex, reading and learning but need some direction&lt;/p&gt; &lt;p&gt;I need to parse email addresses for quality&lt;/p&gt; &lt;p&gt;fax=1AreaCodeNumber@domain.com or 1AreaCodeNumber@doamin.com&lt;/p&gt;&lt;p&gt;need to \nSpam\nWith confidence of: 0.0192004765267%\n')
+2017-08-08 04:18:38,205: INFO: message_sender: Now serving customer 18, ('send', 11540, ':39291662 I &#39;m using dynamic forms, the user can add as many as he needs to input all of the invoices at hand. I have a field (invoice_loadamount), i want to sum all of the invoice_loadamount fields. So if the user generates 3 forms i want it to sum dynami\nSpam\nWith confidence of: 20.8340197802%\n')
+2017-08-08 04:18:39,835: INFO: message_sender: Now serving customer 3, ('send', 11540, ':39291662 I &#39;m using dynamic forms, the user can add as many as he needs to input all of the invoices at hand. I have a field (invoice_loadamount), i want to sum all of the invoice_loadamount fields. So if the user generates 3 forms i want it to sum dynami\nSpam\nWith confidence of: 20.8340197802%\n')
+2017-08-08 04:31:21,120: INFO: message_sender: Now serving customer 19, ('send', 11540, ':39291740 ')
+2017-08-08 04:31:23,389: INFO: message_sender: Now serving customer 4, ('send', 11540, ':39291740 ')
+2017-08-08 04:32:27,622: INFO: message_sender: Now serving customer 5, ('send', 11540, ':39291745 I&#39;m using dynamic forms, the user can add as many as he needs to input all of the invoices at hand. I have a field (invoice_loadamount), i want to sum all of the invoice_loadamount fields. So if the user generates 3 forms i want it to sum dynamic\nSpam\nWith confidence of: 38.2751256227%\n')
+2017-08-08 04:32:28,571: INFO: message_sender: Now serving customer 20, ('send', 11540, ':39291745 I&#39;m using dynamic forms, the user can add as many as he needs to input all of the invoices at hand. I have a field (invoice_loadamount), i want to sum all of the invoice_loadamount fields. So if the user generates 3 forms i want it to sum dynamic\nSpam\nWith confidence of: 38.2751256227%\n')
+2017-08-08 04:33:47,900: INFO: message_sender: Now serving customer 6, ('send', 11540, ':39291761 I&#39;m using dynamic forms, the user can add as many as he needs to input all of the invoices at hand. I have a field (invoice_loadamount), i want to sum all of the invoice_loadamount fields. So if the user generates 3 forms i want it to sum dynamic form one(invoice_lo\nSpam\nWith confidence of: 29.035821557%\n')
+2017-08-08 04:33:48,799: INFO: message_sender: Now serving customer 21, ('send', 11540, ':39291761 I&#39;m using dynamic forms, the user can add as many as he needs to input all of the invoices at hand. I have a field (invoice_loadamount), i want to sum all of the invoice_loadamount fields. So if the user generates 3 forms i want it to sum dynamic form one(invoice_lo\nSpam\nWith confidence of: 29.035821557%\n')
+2017-08-08 19:06:34,115: INFO: MainThread: Logging in.
+2017-08-08 19:06:36,898: INFO: MainThread: Logged in.
+2017-08-08 19:06:36,898: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 19:30:00,634: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39311358 I was wondering where I should specify the versionCode/versionName in an Android library. Before I created the module, the app version data was stored in the manifest. Now I have two manifests, one for the main application (third-party) and one for the the library.\nSpam\nWith confidence of: 0.072785303928%\n')
+2017-08-08 19:50:44,556: INFO: MainThread: Logging in.
+2017-08-08 19:50:46,251: INFO: MainThread: Logged in.
+2017-08-08 19:50:46,251: INFO: message_sender: Worker thread reporting for duty.
+2017-08-08 19:50:53,792: INFO: message_sender: Now serving customer 1, ('send', 11540, ':39311704 I was wondering where I should specify the versionCode/versionName in an Android library. Before I created the module, the app version data was stored in the manifest. Now I have two manifests, one for the main application (third-party) and one for the the library.\nSpam\nWith confidence of: 0.0594258133788%\n')
