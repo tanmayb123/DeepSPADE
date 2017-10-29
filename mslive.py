@@ -2,7 +2,7 @@ from smokeapi import SmokeAPI
 import os
 from subprocess import list2cmdline
 
-SMOKE = SmokeAPI('fc2611a8b6933e5774e8d1d958ba207cf5b293a90b4bc3b723388b9ba8fe27bc')
+SMOKE = SmokeAPI('')
 
 SMOKE.per_page = 1
 
